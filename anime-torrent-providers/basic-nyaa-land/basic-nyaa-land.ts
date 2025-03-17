@@ -2,7 +2,7 @@
 
 class Provider {
 
-    api = "https://nyaa.si/?page=rss"
+    api = "https://nyaa.land/?page=rss"
 
     getSettings(): AnimeProviderSettings {
         return {
@@ -104,7 +104,7 @@ class Provider {
                 anidb_fid: 0,
                 article_url: link,
                 article_title: title,
-                website_url: "https://nyaa.si"
+                website_url: "https://nyaa.land"
             }
 
             torrents.push(torrent)
