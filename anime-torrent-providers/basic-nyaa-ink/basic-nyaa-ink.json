@@ -2,7 +2,7 @@
   "id": "basic-nyaa-ink-seanime",
   "name": "Basic Nyaa (.ink mirror)",
   "description": "nyaa.ink all categories with search only",
-  "manifestURI": "https://raw.githubusercontent.com/Rinkerbel/seanime-extensions/refs/heads/main/anime-torrent-providers/basic-nyaa-land/basic-nyaa-land.json",
+  "manifestURI": "https://raw.githubusercontent.com/Celestialis1/seanime-extensions/refs/heads/main/anime-torrent-providers/basic-nyaa-ink/basic-nyaa-ink.json",
   "version": "1.0.0",
   "author": "Rinkerbel",
   "type": "anime-torrent-provider",
