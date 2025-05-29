@@ -4,7 +4,7 @@
   "description": "nyaa.ink all categories with search only",
   "manifestURI": "https://raw.githubusercontent.com/Rinkerbel/seanime-extensions/refs/heads/main/anime-torrent-providers/basic-nyaa-land/basic-nyaa-land.json",
   "version": "1.0.0",
-  "author": "Rinkerbel - Celestialis",
+  "author": "Rinkerbel",
   "type": "anime-torrent-provider",
   "language": "typescript",
   "lang": "multi",
